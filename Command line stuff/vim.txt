@@ -1,0 +1,17 @@
+:q
+Quit from whatever you're doing
+
+:q!
+HARD quit from whatever you're doing
+
+i
+Enter insert mode when edditing a file
+
+:w
+Save the file
+
+[ESC]
+escape insert mode when editing a file
+
+[ESC] :q
+First escape insert mode, then ":q" to 
